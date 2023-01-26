@@ -1,0 +1,31 @@
+<html>
+     <head>
+          <title>
+               www.Abdurrahman khan.com
+          </title>
+     </head>
+     <body>
+          <center><U><h3>BARKATULLAH UNIVERSITY INSTITUTE OF TECHNOLOGY BHOPAL</h3></U></center>
+          STUDENT NAME:-<input type="text" placeholder="Enter your Name"><br><br>
+          FATHER NAME:-<input type="text" placeholder="Enter Your Father Name"><br><br>
+          MOTHER NAME:-<input type="text" placeholder="Enter Your Mother Name"><br><br>
+          DATE OF BIRTH:-<input type="date"><br><br>
+          GENDER:-<input type="radio" name="gen">MALE <input type="radio" name="gen">FEMALE<br><br>
+          PHOTO:-<input type="file"><br><br>
+          MOBILE NO.:-<input type="number"><br><br>
+          Email ID:-<input type="email"><br><br>
+          Branch<br><br>
+                 <center></center> <input type="checkbox">Computer Science & Engineering <br><br>
+                   <input type="checkbox">Information Technology<br><br>
+                    <input type="checkbox">Electronics & Communication Engineering<br><br>
+                     <input type="checkbox">Civil Engineering<br><br>
+                      <input type="checkbox">Mechanical Engineering</center><br><br>
+          CITY:-<select><option>Select City</option>
+          <option>Bhopal</option>
+          <option>Indore</option>
+          <option>Seoni</option>
+          <option>Jablpur</option></select><br><br>
+          ADDRESS:-<textarea></textarea><br><br>
+          <center><button>SUBMIT</button>
+     <\body>
+  </html>
